@@ -1,0 +1,26 @@
+Sistema de Autenticação Python 🔐
+Este é um sistema de autenticação robusto desenvolvido em Python, utilizando MongoDB para armazenamento de dados e JWT (JSON Web Tokens) para gerenciamento de sessões. O sistema inclui funcionalidades de registro de usuário, login e validação de tokens.
+🚀 Tecnologias
+
+Python 3.8+
+MongoDB
+JWT (JSON Web Tokens)
+bcrypt
+python-dotenv
+
+🛠️ Recursos
+
+✅ Registro de usuário com validações robustas
+✅ Login seguro com geração de JWT
+✅ Validação de tokens
+✅ Criptografia de senha usando bcrypt
+✅ Gerenciamento de conexão com MongoDB
+✅ Tratamento de erros personalizado
+✅ Configuração via variáveis de ambiente
+
+📋 Pré-requisitos
+
+Python 3.8 ou superior
+MongoDB instalado e rodando localmente (ou acesso a uma instância MongoDB)
+Visual Studio Code
+Git
